@@ -1,6 +1,6 @@
 ### DOCKER GRUPPUPPGIFT & INDIVIDUELLA!
 ### -GRUPP 7 - Daniel D, Milton , Sadi
-### -INDIVIDUELLA - Milton Kristoffersson
+### -INDIVIDUELLA - AV Milton Kristoffersson
 
 
 
